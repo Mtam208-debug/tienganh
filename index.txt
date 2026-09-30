@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trái Tim</title>
+    <title>Đoàn Nguyễn Minh Tâm</title>
     <style>
         body {
             margin: 0;
@@ -14,11 +14,12 @@
             background: #111;
         }
 
+<p><center>Minh Tâm test github</center></p>
         .heart {
             position: relative;
             width: 120px;
             height: 120px;
-            background: red;
+            background: pink;
             transform: rotate(-45deg);
             animation: beat 1s infinite;
         }
@@ -29,7 +30,7 @@
             position: absolute;
             width: 120px;
             height: 120px;
-            background: red;
+            background: pink;
             border-radius: 50%;
         }
 
